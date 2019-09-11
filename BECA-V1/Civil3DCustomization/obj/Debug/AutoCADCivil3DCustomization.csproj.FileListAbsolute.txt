@@ -1,0 +1,6 @@
+E:\Chockalingam\Projects\AutoCADCustomization\Civil3DCustomization\Civil3DCustomization\bin\Debug\AutoCADCivil3DCustomization.dll
+E:\Chockalingam\Projects\AutoCADCustomization\Civil3DCustomization\Civil3DCustomization\bin\Debug\AutoCADCivil3DCustomization.pdb
+E:\Chockalingam\Projects\AutoCADCustomization\Civil3DCustomization\Civil3DCustomization\obj\Debug\AutoCADCivil3DCustomization.Properties.Resources.resources
+E:\Chockalingam\Projects\AutoCADCustomization\Civil3DCustomization\Civil3DCustomization\obj\Debug\AutoCADCivil3DCustomization.csproj.GenerateResource.Cache
+E:\Chockalingam\Projects\AutoCADCustomization\Civil3DCustomization\Civil3DCustomization\obj\Debug\AutoCADCivil3DCustomization.dll
+E:\Chockalingam\Projects\AutoCADCustomization\Civil3DCustomization\Civil3DCustomization\obj\Debug\AutoCADCivil3DCustomization.pdb
