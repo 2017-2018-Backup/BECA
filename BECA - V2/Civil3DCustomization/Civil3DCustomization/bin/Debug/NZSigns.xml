@@ -1,0 +1,498 @@
+<?xml version="1.0" encoding="utf-16"?>
+<BasicCivilCustomization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <CivilCustomization>
+    <ID>1</ID>
+    <Type>Signs</Type>
+    <DrawingName>PP-21.dwg</DrawingName>
+    <Region>New Zealand</Region>
+	<Description>Arrow</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>2</ID>
+    <Type>Signs</Type>
+    <DrawingName>PP-31.dwg</DrawingName>
+    <Region>New Zealand</Region>
+	<Description>Arrow</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>3</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW1-50.dwg</DrawingName>
+    <Region>New Zealand</Region>
+	<Description>Arrow</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>4</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW1-100.dwg</DrawingName>
+    <Region>New Zealand</Region>
+	<Description>Arrow</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>5</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW1-150.dwg</DrawingName>
+    <Region>New Zealand</Region>
+	<Description>Arrow</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>6</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW1-200.dwg</DrawingName>
+    <Region>New Zealand</Region>
+	<Description>Arrow</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>7</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-4 (600).dwg</DrawingName>
+    <Region>New Zealand</Region>
+	<Description>Arrow</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>8</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-4 (750).dwg</DrawingName>
+    <Region>New Zealand</Region>
+	<Description>Arrow</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>9</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-5 (600).dwg</DrawingName>
+    <Region>New Zealand</Region>
+	<Description>Arrow</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>10</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-5 (750).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>11</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-6 (750).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>12</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-8 (600).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>13</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-8 (750).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>14</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW10-1 (600).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>15</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW10-1 (750).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>16</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW10L (600).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>17</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW10L (750).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>18</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW10R (600).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>19</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW10R (750).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>20</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW11-1L (600).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Giveway</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>21</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW11-1L (750).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>22</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW11-1R (600).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>23</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW11-1R (750).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>24</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW12-1.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>25</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-13L.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>26</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-13R.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>27</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-16L.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>28</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-16R.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>29</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-17L.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>30</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-17R.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>31</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-19L.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Man Hole</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>32</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-19R.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>33</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-20L.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>34</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-20R.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>35</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-21L.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>36</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-21R.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>37</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-23L.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>38</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-23R.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>39</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-27.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>40</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW27-1.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>41</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-31.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>42</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-35.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>43</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-39.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>44</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-41.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>45</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW43-1.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>46</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-44.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>47</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW44-1.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>48</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-51.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>49</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-58.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pedestrian Crossing</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>50</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-59 (600).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>51</ID>
+    <Type>Signs</Type>
+    <DrawingName>PW-59 (750).dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>52</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-2.1.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>53</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-5.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>54</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-6.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>55</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-7.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>56</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-8.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>57</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-9.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>58</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-10.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>59</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-11.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>60</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-12.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>61</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-13.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>62</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-14.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>63</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-15.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>64</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-17.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>65</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG17-1.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>66</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-18.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Pit</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>67</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-19.1.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>68</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-19.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>69</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-20.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>70</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-23.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>71</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-24.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>72</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-25.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>73</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-26.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>74</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-26A.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>75</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-26C.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>76</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-26D.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>77</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-34.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>78</ID>
+    <Type>Signs</Type>
+    <DrawingName>RG-35.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>79</ID>
+    <Type>Signs</Type>
+    <DrawingName>RP-5.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>80</ID>
+    <Type>Signs</Type>
+    <DrawingName>RP5-1A.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+  <CivilCustomization>
+    <ID>81</ID>
+    <Type>Signs</Type>
+    <DrawingName>RP5-1L.dwg</DrawingName>
+    <Region>New Zealand</Region><Description>Stop</Description>
+  </CivilCustomization>
+</BasicCivilCustomization>
