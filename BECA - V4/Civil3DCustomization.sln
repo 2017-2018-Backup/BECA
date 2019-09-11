@@ -1,0 +1,40 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25420.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BecaApplication", "Civil3DCustomization\BecaApplication.csproj", "{044E3B35-0E0E-4ADF-8475-4967BCDA610E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BecaUserInterface", "BecaUserInterface\BecaUserInterface.csproj", "{1F3AF585-DD25-4B64-8733-D2ECCCF3A988}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ImageView", "..\ImageView\ImageView\ImageView.csproj", "{3382A26C-595D-4C00-813C-EF1845917A75}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DWGViewer", "..\DWGViewer\DWGViewer.csproj", "{D6D31CC4-96AB-4F2A-AEC1-61C5F542C37E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{044E3B35-0E0E-4ADF-8475-4967BCDA610E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{044E3B35-0E0E-4ADF-8475-4967BCDA610E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{044E3B35-0E0E-4ADF-8475-4967BCDA610E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{044E3B35-0E0E-4ADF-8475-4967BCDA610E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1F3AF585-DD25-4B64-8733-D2ECCCF3A988}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1F3AF585-DD25-4B64-8733-D2ECCCF3A988}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1F3AF585-DD25-4B64-8733-D2ECCCF3A988}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1F3AF585-DD25-4B64-8733-D2ECCCF3A988}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3382A26C-595D-4C00-813C-EF1845917A75}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3382A26C-595D-4C00-813C-EF1845917A75}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3382A26C-595D-4C00-813C-EF1845917A75}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3382A26C-595D-4C00-813C-EF1845917A75}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6D31CC4-96AB-4F2A-AEC1-61C5F542C37E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6D31CC4-96AB-4F2A-AEC1-61C5F542C37E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6D31CC4-96AB-4F2A-AEC1-61C5F542C37E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6D31CC4-96AB-4F2A-AEC1-61C5F542C37E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
