@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-16" standalone="yes"?>
+<BasicCivilCustomization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<CivilCustomization>
+		<Type>Signs</Type>
+		<DrawingName>PP-21.dwg</DrawingName>
+		<Region>New Zealand</Region>
+		<Description>NZTA Type 1 - Standard Kerb and Channel</Description>
+	</CivilCustomization>
+	<CivilCustomization>
+		<Type>Signs</Type>
+		<DrawingName>PP-31.dwg</DrawingName>
+		<Region>New Zealand</Region>
+		<Description>NZTA Type 1 - Kerb with Reinforced Haunching Detail</Description>
+	</CivilCustomization>
+	<CivilCustomization>
+		<Type>Signs</Type>
+		<DrawingName>PW1-50.dwg</DrawingName>
+		<Region>New Zealand</Region>
+		<Description>NZTA Permanent warning general supplementary - 50m</Description>
+	</CivilCustomization>
+	<CivilCustomization>
+		<Type>Signs</Type>
+		<DrawingName>PW1-100.dwg</DrawingName>
+		<Region>New Zealand</Region>
+		<Description>NZTA Permanent warning general supplementary - 100m</Description>
+	</CivilCustomization>
+	<CivilCustomization>
+		<Type>Signs</Type>
+		<DrawingName>PW1-150.dwg</DrawingName>
+		<Region>New Zealand</Region>
+		<Description> NZTA Permanent warning general supplementary - 150m</Description>
+	</CivilCustomization>
+	<CivilCustomization>
+		<Type>Signs</Type>
+		<DrawingName>PW1-200.dwg</DrawingName>
+		<Region>New Zealand</Region>
+		<Description>NZTA Permanent warning general supplementary - 200m</Description>
+	</CivilCustomization>
+</BasicCivilCustomization>
